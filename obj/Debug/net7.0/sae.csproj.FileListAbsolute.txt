@@ -1,0 +1,15 @@
+D:\김도원\Desktop\새폴\sae\bin\Debug\net7.0\sae.exe
+D:\김도원\Desktop\새폴\sae\bin\Debug\net7.0\sae.deps.json
+D:\김도원\Desktop\새폴\sae\bin\Debug\net7.0\sae.runtimeconfig.json
+D:\김도원\Desktop\새폴\sae\bin\Debug\net7.0\sae.dll
+D:\김도원\Desktop\새폴\sae\bin\Debug\net7.0\sae.pdb
+D:\김도원\Desktop\새폴\sae\obj\Debug\net7.0\sae.csproj.AssemblyReference.cache
+D:\김도원\Desktop\새폴\sae\obj\Debug\net7.0\sae.GeneratedMSBuildEditorConfig.editorconfig
+D:\김도원\Desktop\새폴\sae\obj\Debug\net7.0\sae.AssemblyInfoInputs.cache
+D:\김도원\Desktop\새폴\sae\obj\Debug\net7.0\sae.AssemblyInfo.cs
+D:\김도원\Desktop\새폴\sae\obj\Debug\net7.0\sae.csproj.CoreCompileInputs.cache
+D:\김도원\Desktop\새폴\sae\obj\Debug\net7.0\sae.dll
+D:\김도원\Desktop\새폴\sae\obj\Debug\net7.0\refint\sae.dll
+D:\김도원\Desktop\새폴\sae\obj\Debug\net7.0\sae.pdb
+D:\김도원\Desktop\새폴\sae\obj\Debug\net7.0\sae.genruntimeconfig.cache
+D:\김도원\Desktop\새폴\sae\obj\Debug\net7.0\ref\sae.dll
